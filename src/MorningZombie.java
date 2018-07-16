@@ -2,9 +2,14 @@ import javax.swing.JOptionPane;
 
 public class MorningZombie {
 public static void main(String[] args) {
-	JOptionPane.showMessageDialog(null, "I first wake up");
-	JOptionPane.showMessageDialog(null, "I then change and go down for beakfast");
-	JOptionPane.showMessageDialog(null, "I then eat breakfast");
-	JOptionPane.showMessageDialog(null, "Then I go to school");
+	JOptionPane.showMessageDialog(null, "Get out of bed");
+	JOptionPane.showMessageDialog(null, "Brush your teeth");
+	JOptionPane.showMessageDialog(null, "Use mouthwash");
+	JOptionPane.showMessageDialog(null, "Brush your hair");
+	JOptionPane.showMessageDialog(null, "Change your clothes");
+	JOptionPane.showMessageDialog(null, "Put on makeup");
+	JOptionPane.showMessageDialog(null, "Eat Breakfast");
+	
+	
 }
 }
